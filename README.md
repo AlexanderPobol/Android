@@ -1,3 +1,3 @@
 # Android 
-It-academy M-AD12-14-20
+It-academy 
 Alexander Pobol
