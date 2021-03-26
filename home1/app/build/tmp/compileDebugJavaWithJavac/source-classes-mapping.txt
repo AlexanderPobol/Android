@@ -1,0 +1,26 @@
+com/example/settings/BuildConfig.java
+ com.example.settings.BuildConfig
+com/example/settings/activities/StartActivity.java
+ com.example.settings.activities.StartActivity
+ com.example.settings.activities.StartActivity$1
+ com.example.settings.activities.StartActivity$2
+ com.example.settings.activities.StartActivity$3
+ com.example.settings.activities.StartActivity$4
+ com.example.settings.activities.StartActivity$5
+com/example/settings/activities/ShareUserInfoActivity.java
+ com.example.settings.activities.ShareUserInfoActivity
+ com.example.settings.activities.ShareUserInfoActivity$1
+com/example/settings/activities/RegistrationActivity.java
+ com.example.settings.activities.RegistrationActivity
+ com.example.settings.activities.RegistrationActivity$1
+ com.example.settings.activities.RegistrationActivity$2
+com/example/settings/activities/RemoteCtrlActivity.java
+ com.example.settings.activities.RemoteCtrlActivity
+ com.example.settings.activities.RemoteCtrlActivity$1
+com/example/settings/UserInfo.java
+ com.example.settings.UserInfo
+com/example/settings/activities/LoginActivity.java
+ com.example.settings.activities.LoginActivity
+ com.example.settings.activities.LoginActivity$1
+ com.example.settings.activities.LoginActivity$2
+ com.example.settings.activities.LoginActivity$3
