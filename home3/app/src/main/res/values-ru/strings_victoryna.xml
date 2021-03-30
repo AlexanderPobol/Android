@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- q = animal !-->
+    <!-- m = math !-->
+    <!-- g = geography !-->
+    <!-- s = sport !-->
+    <!-- fash = fashion !-->
+    <!-- an = anatomy !-->
+    <!-- fru = fruit !-->
+    <!-- f = football !-->
+    <string-array name="questions_technology">
+
+    </string-array>
+
+    <string-array name="answers_technology">
+
+    </string-array>
+
+    <string-array name="questions_physics">
+
+    </string-array>
+
+    <string-array name="answers_physics">
+
+    </string-array>
+
+    <string-array name="questions_astronomy">
+
+    </string-array>
+
+    <string-array name="answers_astronomy">
+
+    </string-array>
+
+    <string-array name="questions_sweets">
+
+    </string-array>
+
+    <string-array name="answers_sweets">
+
+    </string-array>
+
+    <string-array name="questions_city">
+
+    </string-array>
+
+    <string-array name="answers_city">
+
+    </string-array>
+
+    <string-array name="questions_auto">
+
+    </string-array>
+
+    <string-array name="answers_auto">
+
+    </string-array>
+
+    <string-array name="questions_money">
+
+    </string-array>
+
+    <string-array name="answers_money">
+
+    </string-array>
+
+
+    <string name="q1">Глаз у страуса больше, чем размер его мозга.</string> <!-- y !-->
+    <string name="q2">Верблюд может обходиться без воды два месяца.</string><!-- n !-->
+    <string name="q3">Овцы имеют четыре желудка.</string><!-- y !-->
+    <string name="q4">Верблюды способны выпивать до двух сотен литров воды за один подход.</string><!-- y !-->
+    <string name="q5">Свиньи способны загорать.Да</string><!-- y !-->
+    <string name="q6">У осьминогов три сердца.</string><!-- y !-->
+    <string name="q7">В течение жизни 12 пчел производят чайную ложечку меда.</string><!-- y !-->
+    <string name="q8">Зуб слона весит больше тридцати килограмм</string><!-- n !-->
+    <string name="q9">Некоторые африканские дождевые черви достигают длины 6 метров.</string><!-- y !-->
+    <string name="q10">Крысы могут смеяться если их пощекотать</string><!-- y !-->
+    <string name="q11">Медузы испаряются на солнце.</string><!-- y !-->
+    <string name="q12">Верблюжье молоко не киснет.</string><!-- y !-->
+    <string name="q13">Мыши имеют больше костей, чем у человека.</string><!-- y !-->
+    <string name="q14">Осьминог – может менять свою окраску.</string><!-- y !-->
+    <string name="q15">Кузнечик может прыгать на расстояние в 300 раз превышающее длину его тела.</string><!-- n !-->
+    <string name="q16">У слонов есть подбородок.</string><!-- y !-->
+    <string name="q17">Сова способна поворачивать голову на 360 градусов.</string><!-- y !-->
+    <string name="q18">У коал нет отпечатков пальцев.</string><!-- n !-->
+    <string name="q19">Кальмар может весить три тонны.</string><!-- y !-->
+    <string name="q20">Малыш слоненок может выпить 80 литров молока за день.</string><!-- y !-->
+    <string name="a_q1">да</string> <!-- y !-->
+    <string name="a_q2">нет</string><!-- n !-->
+    <string name="a_q3">да</string><!-- y !-->
+    <string name="a_q4">да</string><!-- y !-->
+    <string name="a_q5">да</string><!-- y !-->
+    <string name="a_q6">да</string><!-- y !-->
+    <string name="a_q7">да</string><!-- y !-->
+    <string name="a_q8">нет</string><!-- n !-->
+    <string name="a_q9">да</string><!-- y !-->
+    <string name="a_q10">да</string><!-- y !-->
+    <string name="a_q11">да</string><!-- y !-->
+    <string name="a_q12">да</string><!-- y !-->
+    <string name="a_q13">да</string><!-- y !-->
+    <string name="a_q14">да</string><!-- y !-->
+    <string name="a_q15">нет</string><!-- n !-->
+    <string name="a_q16">да</string><!-- y !-->
+    <string name="a_q17">да</string><!-- y !-->
+    <string name="a_q18">нет</string><!-- n !-->
+    <string name="a_q19">да</string><!-- y !-->
+    <string name="a_q20">да</string><!-- y !-->
+
+    <string-array name="questions_animals">
+        <item>@string/q1</item>
+        <item>@string/q2</item>
+        <item>@string/q3</item>
+        <item>@string/q4</item>
+        <item>@string/q5</item>
+        <item>@string/q6</item>
+        <item>@string/q7</item>
+        <item>@string/q8</item>
+        <item>@string/q9</item>
+        <item>@string/q10</item>
+        <item>@string/q11</item>
+        <item>@string/q12</item>
+        <item>@string/q13</item>
+        <item>@string/q14</item>
+        <item>@string/q15</item>
+        <item>@string/q16</item>
+        <item>@string/q17</item>
+        <item>@string/q18</item>
+        <item>@string/q19</item>
+        <item>@string/q20</item>
+
+    </string-array>
+    <string-array name="answers_animals">
+        <item>@string/a_q1</item>
+        <item>@string/a_q2</item>
+        <item>@string/a_q3</item>
+        <item>@string/a_q4</item>
+        <item>@string/a_q5</item>
+        <item>@string/a_q6</item>
+        <item>@string/a_q7</item>
+        <item>@string/a_q8</item>
+        <item>@string/a_q9</item>
+        <item>@string/a_q10</item>
+        <item>@string/a_q11</item>
+        <item>@string/a_q12</item>
+        <item>@string/a_q13</item>
+        <item>@string/a_q14</item>
+        <item>@string/a_q15</item>
+        <item>@string/a_q16</item>
+        <item>@string/a_q17</item>
+        <item>@string/a_q18</item>
+        <item>@string/a_q19</item>
+        <item>@string/a_q20</item>
+
+    </string-array>
+
+
+
+
+    <string name="mq1">Транспортир - это прибор для измерения длины дуги.</string> <!-- n !-->
+    <string name="mq2">Слово алгебра - имеет одинаковое произношение на всех популярных языках мира.</string><!-- n !-->
+    <string name="mq3">Суммой всех чисел о 1 до 100 будет 5050.</string><!-- y !-->
+    <string name="mq4">При делении чисел, не может получиться ноль.</string><!-- y !-->
+    <string name="mq5">6 из 30 можно вычесть только 1 раз.</string><!-- y !-->
+    <string name="mq6">Все знают приставку кило. А гекто - это 10 метров?</string><!-- n !-->
+    <string name="mq7">Ноль – это единственное число, которое имеет несколько названий.</string><!-- n !-->
+    <string name="mq8">Сумма всех цифр больше их произведения.</string><!-- y !-->
+    <string name="mq9">Итальянцы не любят число 17.</string><!-- y !-->
+    <string name="mq10">Галстук можно завязать 177147 способами</string><!-- y !-->
+    <string name="mq11">Биссектриса - это Крыса, которая поет.</string><!-- n !-->
+    <string name="mq12">Число сто содержит в себе 3 различные цифры.</string><!-- n!-->
+    <string name="mq13">0.2 километра это 20000 дециметров.</string><!-- n !-->
+    <string name="mq14">Ноль римскими числами не напишешь.</string><!-- y !-->
+    <string name="mq15">Сумма углов треугольника равна 180 градусов.</string><!-- y !-->
+    <string name="mq16">Памятник нулю расположен в Лондоне.</string><!-- n !-->
+    <string name="mq17">В математике есть теория кос, теория узлов и теория игр.</string><!-- y !-->
+    <string name="mq18">Гипотенуза - это натянутая тетива на древнегреческом языке.</string><!-- y !-->
+    <string name="mq19">Если сложить все числа в игровой рулетке, получится 666</string><!-- y !-->
+    <string name="mq20">Город Тюмень назван в честь числа 10000.</string><!-- y !-->
+
+    <string name="m_a1">нет</string> <!-- n !-->
+    <string name="m_a2">нет</string><!-- n !-->
+    <string name="m_a3">да</string><!-- y !-->
+    <string name="m_a4">да</string><!-- y !-->
+    <string name="m_a5">да</string><!-- y !-->
+    <string name="m_a6">нет</string><!-- n !-->
+    <string name="m_a7">нет</string><!-- n !-->
+    <string name="m_a8">да</string><!-- y !-->
+    <string name="m_a9">да</string><!-- y !-->
+    <string name="m_a10">да</string><!-- y !-->
+    <string name="m_a11">нет</string><!-- n !-->
+    <string name="m_a12">нет</string><!-- n!-->
+    <string name="m_a13">нет</string><!-- n !-->
+    <string name="m_a14">да</string><!-- y !-->
+    <string name="m_a15">да</string><!-- y !-->
+    <string name="m_a16">нет</string><!-- n !-->
+    <string name="m_a17">да</string><!-- y !-->
+    <string name="m_a18">да</string><!-- y !-->
+    <string name="m_a19">да</string><!-- y !-->
+    <string name="m_a20">да</string><!-- y !-->
+
+    <string-array name="questions_math">
+        <item>@string/mq1</item>
+        <item>@string/mq2</item>
+        <item>@string/mq3</item>
+        <item>@string/mq4</item>
+        <item>@string/mq5</item>
+        <item>@string/mq6</item>
+        <item>@string/mq7</item>
+        <item>@string/mq8</item>
+        <item>@string/mq9</item>
+        <item>@string/mq10</item>
+        <item>@string/mq11</item>
+        <item>@string/mq12</item>
+        <item>@string/mq13</item>
+        <item>@string/mq14</item>
+        <item>@string/mq15</item>
+        <item>@string/mq16</item>
+        <item>@string/mq17</item>
+        <item>@string/mq18</item>
+        <item>@string/mq19</item>
+        <item>@string/mq20</item>
+
+    </string-array>
+
+
+    <string-array name="answers_math">
+        <item>@string/m_a1</item>
+        <item>@string/m_a2</item>
+        <item>@string/m_a3</item>
+        <item>@string/m_a4</item>
+        <item>@string/m_a5</item>
+        <item>@string/m_a6</item>
+        <item>@string/m_a7</item>
+        <item>@string/m_a8</item>
+        <item>@string/m_a9</item>
+        <item>@string/m_a10</item>
+        <item>@string/m_a11</item>
+        <item>@string/m_a12</item>
+        <item>@string/m_a13</item>
+        <item>@string/m_a14</item>
+        <item>@string/m_a15</item>
+        <item>@string/m_a16</item>
+        <item>@string/m_a17</item>
+        <item>@string/m_a18</item>
+        <item>@string/m_a19</item>
+        <item>@string/m_a20</item>
+
+    </string-array>
+
+    <string name="gq1">В Саудовской Аравии только одна река.</string> <!-- n !-->
+    <string name="gq2">В африке есть горнолыжные курорты.</string><!-- y !-->
+    <string name="gq3">Индонезия расположена на более 17000 островах.</string><!-- y !-->
+    <string name="gq4">Куба - единственный Карибский остров, на котором есть железные дороги</string><!-- y !-->
+    <string name="gq5">Самая удаленная от всех океанов точка на Земле находится в России.</string><!-- n !-->
+    <string name="gq6">В Москве есть речка Лось, а самый большой из ручьев, впадающих в нее, называется Лосенок.</string><!-- y !-->
+    <string name="gq7">Все улицы в Японии имеют цифры в названия.</string><!-- n !-->
+    <string name="gq8">На территории Ливана расположено 8 пустынь.</string><!-- n !-->
+    <string name="gq9">У всех государств мира есть столица.</string><!-- n !-->
+    <string name="gq10">Португалия граничит только с одним государством.</string><!-- y !-->
+    <string name="gq11">Нил - самая длинная река в мире.</string><!-- n !-->
+    <string name="gq12">Самое сухое место на земле находится в Антарктиде.</string><!-- y !-->
+    <string name="gq13">У национального гимна Греции 3 версии.</string><!-- n !-->
+    <string name="gq14">В США 9 городов с названием Париж.</string><!-- y !-->
+    <string name="gq15">Самая длинная железнодорожная магистраль на планете находится в России.</string><!-- y !-->
+
+    <string name="g_a1">нет</string> <!-- n !-->
+    <string name="g_a2">да</string><!-- y !-->
+    <string name="g_a3">да</string><!-- y !-->
+    <string name="g_a4">да</string><!-- y !-->
+    <string name="g_a5">нет</string><!-- n !-->
+    <string name="g_a6">да</string><!-- y !-->
+    <string name="g_a7">нет</string><!-- n !-->
+    <string name="g_a8">нет</string><!-- n !-->
+    <string name="g_a9">нет</string><!-- n !-->
+    <string name="g_a10">да</string><!-- y !-->
+    <string name="g_a11">нет</string><!-- n !-->
+    <string name="g_a12">да</string><!-- y !-->
+    <string name="g_a13">нет</string><!-- n !-->
+    <string name="g_a14">да</string><!-- y !-->
+    <string name="g_a15">да</string><!-- y !-->
+
+    <string-array name="questions_geo">
+        <item>@string/gq1</item>
+        <item>@string/gq2</item>
+        <item>@string/gq3</item>
+        <item>@string/gq4</item>
+        <item>@string/gq5</item>
+        <item>@string/gq6</item>
+        <item>@string/gq7</item>
+        <item>@string/gq8</item>
+        <item>@string/gq9</item>
+        <item>@string/gq10</item>
+        <item>@string/gq11</item>
+        <item>@string/gq12</item>
+        <item>@string/gq13</item>
+        <item>@string/gq14</item>
+        <item>@string/gq15</item>
+
+    </string-array>
+
+    <string-array name="answers_geo">
+        <item>@string/g_a1</item>
+        <item>@string/g_a2</item>
+        <item>@string/g_a3</item>
+        <item>@string/g_a4</item>
+        <item>@string/g_a5</item>
+        <item>@string/g_a6</item>
+        <item>@string/g_a7</item>
+        <item>@string/g_a8</item>
+        <item>@string/g_a9</item>
+        <item>@string/g_a10</item>
+        <item>@string/g_a11</item>
+        <item>@string/g_a12</item>
+        <item>@string/g_a13</item>
+        <item>@string/g_a14</item>
+        <item>@string/g_a15</item>
+
+    </string-array>
+
+
+    <string name="sq1">Существует вид спорта — перетягивание ушами.</string> <!-- y !-->
+    <string name="sq2">Шашки старее шахмат.</string><!-- y !-->
+    <string name="sq3">Сумма чисел на противоположных сторонах игральной кости всегда четная.</string><!-- n !-->
+    <string name="sq4">Масса мячика для игры в настольный теннис меньше 5 граммов</string><!-- y !-->
+    <string name="sq5">Максимальная скорость полета воланчика в бадминтоне может достигать 270 километров в час.</string><!-- y !-->
+    <string name="sq6">1,35 км/ч - такова самая медленная скорость в спорте.</string><!-- y !-->
+    <string name="sq7">Сборная Новой Зеландии на чемпионате мира по футболу 2010 года не потерпела ни одного поражения..</string><!-- y !-->
+    <string name="sq8">Белый порошок, которым мажут руки гимнасты — это мел.</string><!-- n !-->
+    <string name="sq9">Кениец Джулиус Йего научился метать копьё, используя в качестве учебника ролики на Youtube с выступлениями олимпийских чемпионов.</string><!-- y !-->
+    <string name="sq10">Российский фигурист Алексей Ягудин выиграл более 20 чемпионатов Росии по фигурному катанию.</string><!-- n !-->
+    <string name="sq11">В игре шашки всего возможно 6 вариантов первого хода.</string><!-- n !-->
+    <string name="sq12">До 1850 года мячики для гольфа изготовлялись из кожи и набивались перьями.</string><!-- y !-->
+    <string name="sq13">Земфира была капитаном женской юниорской сборной России по баскетболу.</string><!-- y !-->
+    <string name="sq14">Херлинг — это ирландский травяной хоккей.</string><!-- y !-->
+    <string name="sq15">Традиция зажигать чашу с олимпийским огнем на все время Игр — это древнеримская традиция</string><!-- n !-->
+    <string name="sq16">Правила конных скачек гласят, что длина имени беговой лошади не должна превышать восемнадцати букв.</string><!-- y !-->
+    <string name="sq17">Победителям Кубка Стэнли вручается копия кубка.</string><!-- y !-->
+    <string name="sq18">На олимпийских полях для хоккея на траве синее покрытие..</string><!-- y !-->
+    <string name="sq19">США только 1 раз в своей истории проиграла на олимпиаде в Американский футбол</string><!-- n !-->
+    <string name="sq20">Число позиций в игре го в 1076 раз больше, чем в шахматах.</string><!-- y !-->
+    <string name="sq21"> Американцы тратят ежегодно 10 миллиардов долларов на мячики для гольфа.</string><!-- y !-->
+    <string name="sq22">Футбольный стадион Уэмбли в Англии создан только для игр, тренировки на нем запрещены.</string><!-- n !-->
+    <string name="sq23">В обычном мяче для гольфа существует ровно 100 дырочек.</string><!-- n !-->
+    <string name="sq24">На Олимпийских играх 1948 года сборная Индии по футболу играла босиком.</string><!-- y !-->
+
+    <string name="s_a1">да</string> <!-- y !-->
+    <string name="s_a2">да</string><!-- y !-->
+    <string name="s_a3">нет</string><!-- n !-->
+    <string name="s_a4">да</string><!-- y !-->
+    <string name="s_a5">да</string><!-- y !-->
+    <string name="s_a6">да</string><!-- y !-->
+    <string name="s_a7">да</string><!-- y !-->
+    <string name="s_a8">нет</string><!-- n !-->
+    <string name="s_a9">да</string><!-- y !-->
+    <string name="s_a10">нет</string><!-- n !-->
+    <string name="s_a11">нет</string><!-- n !-->
+    <string name="s_a12">да</string><!-- y !-->
+    <string name="s_a13">да</string><!-- y !-->
+    <string name="s_a14">да</string><!-- y !-->
+    <string name="s_a15">нет</string><!-- n !-->
+    <string name="s_a16">да</string><!-- y !-->
+    <string name="s_a17">да</string><!-- y !-->
+    <string name="s_a18">да</string><!-- y !-->
+    <string name="s_a19">нет</string><!-- n !-->
+    <string name="s_a20">да</string><!-- y !-->
+    <string name="s_a21">да</string><!-- y !-->
+    <string name="s_a22">нет</string><!-- n !-->
+    <string name="s_a23">нет</string><!-- n !-->
+    <string name="s_a24">да</string><!-- y !-->
+
+
+    <string-array name="questions_sport">
+        <item>@string/sq1</item>
+        <item>@string/sq2</item>
+        <item>@string/sq3</item>
+        <item>@string/sq4</item>
+        <item>@string/sq5</item>
+        <item>@string/sq6</item>
+        <item>@string/sq7</item>
+        <item>@string/sq8</item>
+        <item>@string/sq9</item>
+        <item>@string/sq10</item>
+        <item>@string/sq11</item>
+        <item>@string/sq12</item>
+        <item>@string/sq13</item>
+        <item>@string/sq14</item>
+        <item>@string/sq15</item>
+        <item>@string/sq16</item>
+        <item>@string/sq17</item>
+        <item>@string/sq18</item>
+        <item>@string/sq19</item>
+        <item>@string/sq20</item>
+        <item>@string/sq21</item>
+        <item>@string/sq22</item>
+        <item>@string/sq23</item>
+        <item>@string/sq24</item>
+
+    </string-array>
+
+    <string-array name="answers_sport">
+        <item>@string/s_a1</item>
+        <item>@string/s_a2</item>
+        <item>@string/s_a3</item>
+        <item>@string/s_a4</item>
+        <item>@string/s_a5</item>
+        <item>@string/s_a6</item>
+        <item>@string/s_a7</item>
+        <item>@string/s_a8</item>
+        <item>@string/s_a9</item>
+        <item>@string/s_a10</item>
+        <item>@string/s_a11</item>
+        <item>@string/s_a12</item>
+        <item>@string/s_a13</item>
+        <item>@string/s_a14</item>
+        <item>@string/s_a15</item>
+        <item>@string/s_a16</item>
+        <item>@string/s_a17</item>
+        <item>@string/s_a18</item>
+        <item>@string/s_a19</item>
+        <item>@string/s_a20</item>
+        <item>@string/s_a21</item>
+        <item>@string/s_a22</item>
+        <item>@string/s_a23</item>
+        <item>@string/s_a24</item>
+
+    </string-array>
+
+    <string name="fashq1">Штаны и брюки в большинстве языков существуют только во множественном числе.</string> <!-- y !-->
+    <string name="fashq2">Джинсы от Gucci вошли в историю как самые дорогие.</string><!-- y !-->
+    <string name="fashq3">Мода на большие глаза с длинными ресницами существовала еще в Древнем Риме.</string><!-- y !-->
+    <string name="fashq4">Подводка ресниц стала популярной после её открытия в гробнице фараона Тутанхамона.</string><!-- y !-->
+    <string name="fashq5">До Первой мировой войны женщинам запрещалось носить шорты.</string><!-- y !-->
+    <string name="fashq6">Первый журнал мод публиковали во Франции.</string><!-- y !-->
+    <string name="fashq7">Пальто получило название от армейских окопов</string><!-- y !-->
+    <string name="fashq8">Бикини названы в честь острова, атолла Бикини, где американские военные тестировали свои бомбы.</string><!-- y !-->
+    <string name="fashq9">Самым древним видом одежды, после набедренных повязок, считается юбка.</string><!-- y !-->
+    <string name="fashq10">Милан стал первым городом, в котором впервые в истории состоялась Неделя моды.</string><!-- n !-->
+    <string name="fashq11">Сланцы - это название обуви пришедшее к нам из Древней Греции.</string><!-- n !-->
+    <string name="fashq12">Израиль стал первой страной, законодательно запретившей работу слишком худым топ-моделям.</string><!-- y !-->
+    <string name="fashq13">Болеро - это короткая курточка с рукавами.</string><!-- y !-->
+    <string name="fashq14">Куклу, которая демонстрировала модели одежды, называли Барби.</string><!-- n !-->
+    <string name="fashq15">Благодаря Наполеону на рукавах курток и рубашек теперь есть кнопки.</string><!-- y !-->
+
+    <string name="fash_a1">да</string> <!-- y !-->
+    <string name="fash_a2">да</string><!-- y !-->
+    <string name="fash_a3">да</string><!-- y !-->
+    <string name="fash_a4">да</string><!-- y !-->
+    <string name="fash_a5">да</string><!-- y !-->
+    <string name="fash_a6">да</string><!-- y !-->
+    <string name="fash_a7">да</string><!-- y !-->
+    <string name="fash_a8">да</string><!-- y !-->
+    <string name="fash_a9">да</string><!-- y !-->
+    <string name="fash_a10">нет</string><!-- n !-->
+    <string name="fash_a11">нет</string><!-- n !-->
+    <string name="fash_a12">да</string><!-- y !-->
+    <string name="fash_a13">да</string><!-- y !-->
+    <string name="fash_a14">нет</string><!-- n !-->
+    <string name="fash_a15">да</string><!-- y !-->
+
+
+    <string-array name="questions_fash">
+        <item>@string/fashq1</item>
+        <item>@string/fashq2</item>
+        <item>@string/fashq3</item>
+        <item>@string/fashq4</item>
+        <item>@string/fashq5</item>
+        <item>@string/fashq6</item>
+        <item>@string/fashq7</item>
+        <item>@string/fashq8</item>
+        <item>@string/fashq9</item>
+        <item>@string/fashq10</item>
+        <item>@string/fashq11</item>
+        <item>@string/fashq12</item>
+        <item>@string/fashq13</item>
+        <item>@string/fashq14</item>
+        <item>@string/fashq15</item>
+
+    </string-array>
+
+    <string-array name="answers_fash">
+        <item>@string/fash_a1</item>
+        <item>@string/fash_a2</item>
+        <item>@string/fash_a3</item>
+        <item>@string/fash_a4</item>
+        <item>@string/fash_a5</item>
+        <item>@string/fash_a6</item>
+        <item>@string/fash_a7</item>
+        <item>@string/fash_a8</item>
+        <item>@string/fash_a9</item>
+        <item>@string/fash_a10</item>
+        <item>@string/fash_a11</item>
+        <item>@string/fash_a12</item>
+        <item>@string/fash_a13</item>
+        <item>@string/fash_a14</item>
+        <item>@string/fash_a15</item>
+
+    </string-array>
+
+
+    <string name="anq1">Скорость чихания больше скорости кашля.</string> <!-- n !-->
+    <string name="anq2">У младенцев больше костей чем у взрослых.</string><!-- y !-->
+    <string name="anq3">Ребенок до 6-ти месяцев может дышать и глотать одновременно.</string><!-- y !-->
+    <string name="anq4">Женщины моргают в 4 раза чаще мужчин</string><!-- n !-->
+    <string name="anq5">Ногти на пальцах ног растут быстрее чем на пальцах рук..</string><!-- n !-->
+    <string name="anq6">Женские сердца бьются быстрее мужских.</string><!-- y !-->
+    <string name="anq7">Нос и уши растут всю жизнь.</string><!-- y !-->
+    <string name="anq8">Правое легкое больше объемом левого.</string><!-- y !-->
+    <string name="anq9">Когда человек краснеет, его желудок краснеет тоже.</string><!-- y !-->
+    <string name="anq10">Все отпечатки языка уникальные</string><!-- y !-->
+    <string name="anq11">Ноготь на среднем пальце растёт быстрее, чем на всех остальных.</string><!-- y !-->
+    <string name="anq12">Язык самая сильная мышца в теле человека.</string><!-- y !-->
+    <string name="anq13">Чихать открытыми глазами невозможно.</string><!-- y !-->
+    <string name="anq14">Если собрать все железо, содержащееся в организме человека, то из него можно сделать чайную ложку.</string><!-- n !-->
+
+    <string name="an_a1">нет</string> <!-- n !-->
+    <string name="an_a2">да</string><!-- y !-->
+    <string name="an_a3">да</string><!-- y !-->
+    <string name="an_a4">нет</string><!-- n !-->
+    <string name="an_a5">нет</string><!-- n !-->
+    <string name="an_a6">да</string><!-- y !-->
+    <string name="an_a7">да</string><!-- y !-->
+    <string name="an_a8">да</string><!-- y !-->
+    <string name="an_a9">да</string><!-- y !-->
+    <string name="an_a10">да</string><!-- y !-->
+    <string name="an_a11">да</string><!-- y !-->
+    <string name="an_a12">да</string><!-- y !-->
+    <string name="an_a13">да</string><!-- y !-->
+    <string name="an_a14">нет</string><!-- n !-->
+
+    <string-array name="questions_anatomy">
+        <item>@string/anq1</item>
+        <item>@string/anq2</item>
+        <item>@string/anq3</item>
+        <item>@string/anq4</item>
+        <item>@string/anq5</item>
+        <item>@string/anq6</item>
+        <item>@string/anq7</item>
+        <item>@string/anq8</item>
+        <item>@string/anq9</item>
+        <item>@string/anq10</item>
+        <item>@string/anq11</item>
+        <item>@string/anq12</item>
+        <item>@string/anq13</item>
+        <item>@string/anq14</item>
+
+    </string-array>
+
+    <string-array name="answers_anatomy">
+        <item>@string/an_a1</item>
+        <item>@string/an_a2</item>
+        <item>@string/an_a3</item>
+        <item>@string/an_a4</item>
+        <item>@string/an_a5</item>
+        <item>@string/an_a6</item>
+        <item>@string/an_a7</item>
+        <item>@string/an_a8</item>
+        <item>@string/an_a9</item>
+        <item>@string/an_a10</item>
+        <item>@string/an_a11</item>
+        <item>@string/an_a12</item>
+        <item>@string/an_a13</item>
+        <item>@string/an_a14</item>
+
+    </string-array>
+
+    <string name="fruq1">Роза может давать ягоды.</string> <!-- y !-->
+    <string name="fruq2">Одна клубника содержит в среднем около 200 семян.</string><!-- y !-->
+    <string name="fruq3">Арбузы могут быть квадратными</string><!-- y !-->
+    <string name="fruq4">Сельдерей имеет отрицательную калорийность</string><!-- n !-->
+    <string name="fruq5">К семейству персиковых относится и миндаль.</string><!-- y !-->
+    <string name="fruq6">Маслины и оливки – одно и то же.</string><!-- y !-->
+    <string name="fruq7">В Европе томат – это фрукт, а в США – овощ.</string><!-- y !-->
+    <string name="fruq8">Перец чили, как и шоколад, способен повышать настроение.</string><!-- y !-->
+    <string name="fruq9">Банан это трава, а не фрукт.</string><!-- y !-->
+    <string name="fruq10">В Европе морковку официально признали фруктом.</string><!-- y !-->
+    <string name="fruq11">Картофель стал первым овощем, выращенном в космосе.</string><!-- y !-->
+    <string name="fruq12">Музеи картофеля существуют в Бельгии, США, но не существует Беларуси.</string><!-- n !-->
+    <string name="fruq13">Апельсины в жарком климате зеленые.</string><!-- y !-->
+    <string name="fruq14">Самыми радиоактивный фрукт - это банан.</string><!-- y !-->
+    <string name="fruq15">Горошек был первым овощем, закрытым в консервной банке</string><!-- y !-->
+    <string name="fruq16">У помидор больше генов, чем у человека</string><!-- y !-->
+
+
+
+    <string name="fru_a1">да</string> <!-- y !-->
+    <string name="fru_a2">да</string><!-- y !-->
+    <string name="fru_a3">да</string><!-- y !-->
+    <string name="fru_a4">нет</string><!-- n !-->
+    <string name="fru_a5">да</string><!-- y !-->
+    <string name="fru_a6">да</string><!-- y !-->
+    <string name="fru_a7">да</string><!-- y !-->
+    <string name="fru_a8">да</string><!-- y !-->
+    <string name="fru_a9">да</string><!-- y !-->
+    <string name="fru_a10">да</string><!-- y !-->
+    <string name="fru_a11">да</string><!-- y !-->
+    <string name="fru_a12">нет</string><!-- n !-->
+    <string name="fru_a13">да</string><!-- y !-->
+    <string name="fru_a14">да</string><!-- y !-->
+    <string name="fru_a15">да</string><!-- y !-->
+    <string name="fru_a16">да</string><!-- y !-->
+
+    <string-array name="questions_fruit">
+        <item>@string/fruq1</item>
+        <item>@string/fruq2</item>
+        <item>@string/fruq3</item>
+        <item>@string/fruq4</item>
+        <item>@string/fruq5</item>
+        <item>@string/fruq6</item>
+        <item>@string/fruq7</item>
+        <item>@string/fruq8</item>
+        <item>@string/fruq9</item>
+        <item>@string/fruq10</item>
+        <item>@string/fruq11</item>
+        <item>@string/fruq12</item>
+        <item>@string/fruq13</item>
+        <item>@string/fruq14</item>
+        <item>@string/fruq15</item>
+        <item>@string/fruq16</item>
+    </string-array>
+
+    <string-array name="answers_fruit">
+        <item>@string/fru_a1</item>
+        <item>@string/fru_a2</item>
+        <item>@string/fru_a3</item>
+        <item>@string/fru_a4</item>
+        <item>@string/fru_a5</item>
+        <item>@string/fru_a6</item>
+        <item>@string/fru_a7</item>
+        <item>@string/fru_a8</item>
+        <item>@string/fru_a9</item>
+        <item>@string/fru_a10</item>
+        <item>@string/fru_a11</item>
+        <item>@string/fru_a12</item>
+        <item>@string/fru_a13</item>
+        <item>@string/fru_a14</item>
+        <item>@string/fru_a15</item>
+        <item>@string/fru_a16</item>
+
+
+    </string-array>
+
+    <string name="fq1">Самое быстрое удаление произошло на первой секунде игр</string> <!-- n !-->
+    <string name="fq2">Старейший футбольный турнир на планете – Кубок Англии.</string><!-- y !-->
+    <string name="fq3">Самый длинный футбольный матч длился более 65 часов.</string><!-- y !-->
+    <string name="fq4">Сборная Норвегии является единственной командой на планете, которая ни разу не проиграла бразильцам.</string><!-- y !-->
+    <string name="fq5">Месси принадлежит забавный рекорд, он единственный кто смог забить все 4 гола за матч, при этом финальный счет был 2:2.</string><!-- n !-->
+    <string name="fq6">Футбол официально запрещен в шести странах.</string><!-- y !-->
+    <string name="fq7">Гренландия не может вступить в ФИФА, потому что на острове растёт слишком мало травы</string><!-- y !-->
+    <string name="fq8">Стадион Первого Мая в Северной Корее – самый большой стадион в мире.</string><!-- y !-->
+    <string name="fq9">В один из видов футбола могут играть 3 команды.</string><!-- y !-->
+    <string name="fq10">Артур Фриденрайх – лучший бомбардир за всю историю футбола.</string><!-- y !-->
+    <string name="fq11">Может ли футбольный судья удалить сам себя.</string><!-- y !-->
+    <string name="fq12">Бразилия приняла участие во всех чемпионатах мира по футболу.</string><!-- y !-->
+    <string name="fq13">Футбол придумали в Бразилии.</string><!-- n !-->
+
+    <string name="f_a1">нет</string> <!-- n !-->
+    <string name="f_a2">да</string><!-- y !-->
+    <string name="f_a3">да</string><!-- y !-->
+    <string name="f_a4">да</string><!-- y !-->
+    <string name="f_a5">нет</string><!-- n !-->
+    <string name="f_a6">да</string><!-- y !-->
+    <string name="f_a7">да</string><!-- y !-->
+    <string name="f_a8">да</string><!-- y !-->
+    <string name="f_a9">да</string><!-- y !-->
+    <string name="f_a10">да</string><!-- y !-->
+    <string name="f_a11">да</string><!-- y !-->
+    <string name="f_a12">да</string><!-- y !-->
+    <string name="f_a13">нет</string><!-- n !-->
+
+
+    <string-array name="questions_foot">
+        <item>@string/fq1</item>
+        <item>@string/fq2</item>
+        <item>@string/fq3</item>
+        <item>@string/fq4</item>
+        <item>@string/fq5</item>
+        <item>@string/fq6</item>
+        <item>@string/fq7</item>
+        <item>@string/fq8</item>
+        <item>@string/fq9</item>
+        <item>@string/fq10</item>
+        <item>@string/fq11</item>
+        <item>@string/fq12</item>
+        <item>@string/fq13</item>
+
+    </string-array>
+
+    <string-array name="answers_foot">
+        <item>@string/f_a1</item>
+        <item>@string/f_a2</item>
+        <item>@string/f_a3</item>
+        <item>@string/f_a4</item>
+        <item>@string/f_a5</item>
+        <item>@string/f_a6</item>
+        <item>@string/f_a7</item>
+        <item>@string/f_a8</item>
+        <item>@string/f_a9</item>
+        <item>@string/f_a10</item>
+        <item>@string/f_a11</item>
+        <item>@string/f_a12</item>
+        <item>@string/f_a13</item>
+
+    </string-array>
+
+
+
+
+</resources>

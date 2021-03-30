@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ДЗ_2</string>
+    <string name="robotBLE"> Робот подключен через блютуз.</string>
+    <string name="robot_to_firebase">Разрешить подключение к <br /> моему роботу удаленно ?</string>
+    <string name="ask_distant_connect">Хочу управлять удаленным роботом. Запросить список доступных.</string>
+    <string name="terminal">Служебные данные обмена между роботом и телеофоном. <br /> Serial bluetooth terminal.</string>
+    <string name="local_db">Редактирование локальной базы данных</string>
+    <string name="edit_firebase">Редактирование удаленной базы данных</string>
+    <string name="create_account">Создать новый аккаунт</string>
+    <string name="day">день</string>
+    <string name="night">ночь</string>
+    <string name="robofriend">Робофрэнд приветствует Вас</string>
+    <string name="instruct1">для того что бы управлять роботом дистанционно нужен аккаунт в интернете</string>
+    <string name="instraction1">если аккаунт есть</string>
+    <string name="instraction2">если аккаунта нет</string>
+    <string name="but_rob_ctrl">управление роботом без интернета и регистрации</string>
+    <string name="but_login">логин</string>
+    <string name="but_registr">регистрация</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_passsword">Подтвердите пароль</string>
+    <string name="register">ЗАРЕГЕСТРИРОВАТЬ</string>
+    <string name="have_account">Уже есть аккаунт ?</string>
+    <string name="enter"><u>ВОЙТИ</u></string>
+    <string name="signinContinue">Введите логин и пароль для продолжения</string>
+    <string name="dont_have_account">Еще нет аккаунта?</string>
+    <string name="register1"><u>СОЗДАТЬ</u></string>
+    <string name="numA">число А</string>
+    <string name="numB">число В</string>
+    <string name="resultEdit">результат</string>
+    <string name="sign1">знак</string>
+    <string name="error_div_null">ошибка! деление на ноль</string>
+    <string name="home2" >дз-3 викторина</string>
+    <string name="categoryVictor">категория технология</string>
+
+</resources>

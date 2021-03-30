@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">home2</string>
+    <string name="robotBLE"> Robot have been connected through Bluetooth</string>
+    <string name="robot_to_firebase">Allow remote connection<br /> to my robot?</string>
+    <string name="ask_distant_connect">I want to control a remote robot.Request a list of available ones.</string>
+    <string name="terminal">Service data of the exchange between the robot and the phone. <br /> Serial bluetooth terminal.</string>
+    <string name="local_db">local database editing</string>
+    <string name="edit_firebase">Editing a remote database</string>
+    <string name="create_account">Create a new account</string>
+    <string name="day">day</string>
+    <string name="night">night</string>
+    <string name="robofriend">RoboFriend is greeting you</string>
+    <string name="instruct1">in order to control the robot remotely you need an account on the Internet</string>
+    <string name="instraction1">if you have an account</string>
+    <string name="instraction2">if there is no account</string>
+    <string name="but_rob_ctrl">Control the robot without the Internet and registration</string>
+    <string name="but_login">login</string>
+    <string name="but_registr">REGISTRATION</string>
+    <string name="your_name">Name</string>
+    <string name="password">Password</string>
+    <string name="confirm_passsword">Confirm passsword</string>
+    <string name="register">REGISTER</string>
+    <string name="have_account">Already have an account ?</string>
+    <string name="enter"><u>ENTER</u></string>
+    <string name="signinContinue">Sign in to continue</string>
+    <string name="dont_have_account">Don not have a account?</string>
+    <string name="register1"><u>SIGN UP</u></string>
+    <string name="numA">numberA</string>
+    <string name="numB">numberВ</string>
+    <string name="resultEdit">result</string>
+    <string name="sign1">sign</string>
+    <string name="error_div_null">error! division by zero </string>
+    <string name="home2" >home3-victorina</string>
+
+</resources>

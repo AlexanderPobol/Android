@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="day1" translatable="false">день</string>
+    <string name="it_academy" translatable="false">IT-Academy</string>
+    <string name="but_login">login</string>
+    <string name="your_name">Name</string>
+    <string name="confirm_passsword">Confirm passsword</string>
+    <string name="register">ЗАРЕГЕСТРИРОВАТЬ</string>
+    <string name="day">день</string>
+    <string name="night">ночь</string>
+</resources>
