@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7F5F4"
+    android:orientation="vertical">
+
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/gr1_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/cr1_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/gr3_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/cr3_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/gr4_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/cr4_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/gr6_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/gr7_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/cr7_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/gr9_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/cr10_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/cr11_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_29"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/cr14_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_35"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/cr17_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_38"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/gr19_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/r32_12_18r8c_39"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="@string/cr20_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gc1_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/gc1_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/cc1_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/cc1_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gc3_g32_12_8c18r"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/gc3_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/cc3_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/cc3_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gc4_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/gc4_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/cc4_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/cc4_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gc5_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/gc5_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gc6_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/gc6_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gc7_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/gc7_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/cc7_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/cc7_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gc9_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/gc9_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/cc9_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/cc9_g32_12_8c18r" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/gc10_g32_12_8c18r"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="@string/gc10_g32_12_8c18r" />
+
+    <TextView
+        android:id="@+id/tv_author"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:fontFamily="@font/ruluko"
+        android:foregroundGravity="center"
+        android:gravity="left|center_vertical"
+        android:text="Profile"
+
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_3"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc1_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_2" />
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:text="Alexandr Pobol"
+        android:textAlignment="viewStart"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_7"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc3_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_6" />
+
+    <TextView
+        android:id="@+id/tv_name2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Hardware designer"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/tv_night"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc3_g32_12_8c18r"
+        app:layout_constraintTop_toBottomOf="@+id/tv_name" />
+
+    <TextView
+        android:id="@+id/tv_web"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColorLink="@color/m_blue_main"
+        android:clickable="true"
+        android:maxLength="28"
+        android:singleLine="true"
+        android:text="@string/web_adr"
+        android:textColor="@color/m_blue_main"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_9"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/cc3_g32_12_8c18r" />
+
+    <ImageView
+        android:id="@+id/img_avatar"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_9"
+        app:layout_constraintEnd_toStartOf="@+id/gc3_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc1_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_6"
+        app:srcCompat="@drawable/img_photo" />
+
+    <ImageView
+        android:id="@+id/img_line"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_16"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/cc1_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_11"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/ic_line" />
+
+    <TextView
+        android:id="@+id/tv_num_posts"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="186"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_14"
+        app:layout_constraintEnd_toStartOf="@+id/gc3_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc1_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_12" />
+
+    <TextView
+        android:id="@+id/tv_num_followers"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="110"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_14"
+        app:layout_constraintEnd_toStartOf="@+id/gc6_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc4_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_12" />
+
+    <TextView
+        android:id="@+id/tv_num_following"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="bottom|center_horizontal"
+        android:text="311"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_14"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc7_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_12" />
+
+    <TextView
+        android:id="@+id/tv_posts"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="clip_horizontal|center_vertical"
+        android:text="Posts"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_15"
+        app:layout_constraintEnd_toStartOf="@+id/gc3_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc1_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_14" />
+
+    <TextView
+        android:id="@+id/tv_followers"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="clip_horizontal|center_vertical"
+        android:text="Followers"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_15"
+        app:layout_constraintEnd_toStartOf="@+id/gc6_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc4_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_14" />
+
+    <TextView
+        android:id="@+id/tv_following"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="clip_horizontal|center_vertical"
+        android:text="Following"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_15"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc7_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_14" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/but_up_slider"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/button__selector_1"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_3"
+        app:layout_constraintDimensionRatio="w,1:1"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc8_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_2" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/but_up_avatar"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/button__selector_2"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_8"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc8_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_7" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/but_follow"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button__selector_3"
+        android:text="Follow"
+        android:textColor="@color/white"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_21"
+        app:layout_constraintEnd_toStartOf="@+id/gc7_g32_12_8c18r"
+        app:layout_constraintHorizontal_bias="0.576"
+        app:layout_constraintStart_toStartOf="@+id/cc1_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_18" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/but_telegram"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button__selector_4"
+        android:textColor="@color/white"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_21"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc7_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_18" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/but_telegr"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/button__selector_1"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_3"
+        app:layout_constraintDimensionRatio="w,1:1"
+        app:layout_constraintEnd_toStartOf="@+id/gc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/cc8_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_2" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/r32_12_18r8c_38"
+        app:layout_constraintEnd_toStartOf="@+id/cc9_g32_12_8c18r"
+        app:layout_constraintStart_toStartOf="@+id/gc1_g32_12_8c18r"
+        app:layout_constraintTop_toTopOf="@+id/r32_12_18r8c_23">
+
+
+        <fragment
+            android:id="@+id/fr_photo_slider"
+            android:name="com.pobol.home5.PhotoSliderFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

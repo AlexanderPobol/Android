@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation_view_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black">
+
+        <ImageView
+            android:id="@+id/img_profile"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            app:srcCompat="@drawable/img_photo" />
+
+        <TextView
+            android:id="@+id/img_user_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/close_image_view"
+            android:layout_toRightOf="@+id/img_profile"
+            android:text="Josefina Hall"
+            android:textColor="@android:color/white"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/user_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_user_name"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="0dp"
+            android:layout_toLeftOf="@+id/close_image_view"
+            android:layout_toRightOf="@+id/img_profile"
+            android:text="That's god"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/close_image_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_but_vk" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_marginTop="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/profile_image2"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            app:srcCompat="@drawable/img_photo" />
+
+        <TextView
+            android:id="@+id/user_name2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/close_image_view2"
+            android:layout_toRightOf="@+id/profile_image2"
+            android:text="Coral Wood"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:id="@+id/user_email2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/user_name2"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="0dp"
+            android:layout_toLeftOf="@+id/close_image_view2"
+            android:layout_toRightOf="@+id/profile_image2"
+            android:text="Your sunglass is available!"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/close_image_view2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_but_vk" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_marginTop="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/profile_image82"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            app:srcCompat="@drawable/img_photo" />
+
+        <TextView
+            android:id="@+id/user_name82"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/close_image_view82"
+            android:layout_toRightOf="@+id/profile_image82"
+            android:text="Coral Wood"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:id="@+id/user_email82"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/user_name82"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="0dp"
+            android:layout_toLeftOf="@+id/close_image_view82"
+            android:layout_toRightOf="@+id/profile_image82"
+            android:text="Your sunglass is available!"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/close_image_view82"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_but_vk" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_marginTop="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/profile_image72"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            app:srcCompat="@drawable/img_photo" />
+
+        <TextView
+            android:id="@+id/user_name72"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/close_image_view72"
+            android:layout_toRightOf="@+id/profile_image72"
+            android:text="Coral Wood"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:id="@+id/user_email72"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/user_name72"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="0dp"
+            android:layout_toLeftOf="@+id/close_image_view72"
+            android:layout_toRightOf="@+id/profile_image72"
+            android:text="Your sunglass is available!"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/close_image_view72"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_but_vk" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_marginTop="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/profile_image62"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            app:srcCompat="@drawable/img_photo" />
+
+        <TextView
+            android:id="@+id/user_name62"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/close_image_view62"
+            android:layout_toRightOf="@+id/profile_image62"
+            android:text="Coral Wood"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:id="@+id/user_email62"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/user_name62"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="0dp"
+            android:layout_toLeftOf="@+id/close_image_view62"
+            android:layout_toRightOf="@+id/profile_image62"
+            android:text="Your sunglass is available!"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/close_image_view62"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_but_vk" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_marginTop="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/profile_image52"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            app:srcCompat="@drawable/img_photo" />
+
+        <TextView
+            android:id="@+id/user_name52"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/close_image_view52"
+            android:layout_toRightOf="@+id/profile_image52"
+            android:text="Coral Wood"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:id="@+id/user_email52"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/user_name52"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="0dp"
+            android:layout_toLeftOf="@+id/close_image_view52"
+            android:layout_toRightOf="@+id/profile_image52"
+            android:text="Your sunglass is available!"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/close_image_view52"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_but_vk" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_marginTop="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/profile_image32"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            app:srcCompat="@drawable/img_photo" />
+
+        <TextView
+            android:id="@+id/user_name32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/close_image_view32"
+            android:layout_toRightOf="@+id/profile_image32"
+            android:text="Coral Wood"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:id="@+id/user_email32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/user_name32"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="0dp"
+            android:layout_toLeftOf="@+id/close_image_view32"
+            android:layout_toRightOf="@+id/profile_image32"
+            android:text="Your sunglass is available!"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/close_image_view32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_but_vk" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_marginTop="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/profile_image42"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            app:srcCompat="@drawable/img_photo" />
+
+        <TextView
+            android:id="@+id/user_name42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/close_image_view42"
+            android:layout_toRightOf="@+id/profile_image42"
+            android:text="Coral Wood"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:id="@+id/user_email42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/user_name42"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="0dp"
+            android:layout_toLeftOf="@+id/close_image_view42"
+            android:layout_toRightOf="@+id/profile_image42"
+            android:text="Your sunglass is available!"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/close_image_view42"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_but_vk" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_marginTop="20dp"
+        >
+
+        <ImageView
+            android:id="@+id/profile_image22"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            app:srcCompat="@drawable/img_photo" />
+
+        <TextView
+            android:id="@+id/user_name22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="8dp"
+            android:layout_toLeftOf="@+id/close_image_view22"
+            android:layout_toRightOf="@+id/profile_image22"
+            android:text="Coral Wood"
+            android:textColor="@android:color/white"
+            android:textSize="14sp"
+            />
+
+        <TextView
+            android:id="@+id/user_email22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/user_name22"
+            android:layout_marginLeft="12dp"
+            android:layout_marginTop="0dp"
+            android:layout_toLeftOf="@+id/close_image_view22"
+            android:layout_toRightOf="@+id/profile_image22"
+            android:text="Your sunglass is available!"
+
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/close_image_view22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="16dp"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_but_vk" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:layout_marginTop="20dp"
+    >
+
+    <ImageView
+        android:id="@+id/profile_image12"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="16dp"
+        app:srcCompat="@drawable/img_photo" />
+
+    <TextView
+        android:id="@+id/user_name12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="8dp"
+        android:layout_toLeftOf="@+id/close_image_view12"
+        android:layout_toRightOf="@+id/profile_image12"
+        android:text="Coral Wood"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        />
+
+    <TextView
+        android:id="@+id/user_email12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/user_name12"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="0dp"
+        android:layout_toLeftOf="@+id/close_image_view12"
+        android:layout_toRightOf="@+id/profile_image12"
+        android:text="Your sunglass is available!"
+
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/close_image_view12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:padding="16dp"
+        android:visibility="gone"
+        app:srcCompat="@drawable/ic_but_vk" />
+
+
+</RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/search"
+        android:title="@string/sync_title"
+        android:contentDescription="@string/day"
+        app:showAsAction="always"
+        app:actionLayout="@layout/custom_menu_item1" />
+
+    <item
+        android:id="@+id/like"
+        android:title="@string/sync_title"
+        android:contentDescription="@string/day"
+        app:showAsAction="always"
+        app:actionLayout="@layout/custom_menu_item2" />
+
+    <item
+        android:id="@+id/account"
+        android:title="@string/sync_title"
+        android:contentDescription="@string/day"
+        app:actionLayout="@layout/custom_menu_item3"
+        app:showAsAction="always"
+        />
+
+
+</menu>
